@@ -4,7 +4,7 @@ import Icon from 'react-native-vector-icons/Entypo';
 
 import { createDrawerNavigator, DrawerContent } from '@react-navigation/drawer';
 import { NavigationContainer } from '@react-navigation/native';
-import {useFonts , Kanit_400Regular } from '@expo-google-fonts/kanit'
+
 import { HeaderTitle } from '@react-navigation/stack';
 
 
